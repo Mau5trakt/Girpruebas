@@ -1,1 +1,1 @@
-este documento se encuentra en el branch kubz y no ha sido commiteado correctamente 
+este documento se encuentra en el branch master y en el branch kubz y  ha sido commiteado correctamente 
