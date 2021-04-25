@@ -1,1 +1,2 @@
-bueno, solo quiero ver si esto aparece en otro merge lo cual lo dudo mucho 
+bueno, solo quiero ver si esto aparece en otro merge lo cual lo dudo mucho
+no aparecio pero pue hacer el merge desde donde estaba (p1) hasta el main. :D  
