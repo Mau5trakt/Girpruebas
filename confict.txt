@@ -1,2 +1,2 @@
 edad:  20 años 
-letra favorita: ?
+letra favorita: a
