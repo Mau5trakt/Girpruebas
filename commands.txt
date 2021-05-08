@@ -17,3 +17,4 @@ uploading a repository to github
 git remote add origin "link"
 git remote - v #check the destiny repository in github 
 git push -u origin "name of the branch"
+git pull origin "name of the branch" 
