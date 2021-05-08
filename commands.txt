@@ -1,3 +1,5 @@
+
+
 git init #initializate git in the actual directory
 git status # check the status of the directory 
 git add (file.extension) #add a file 
@@ -10,3 +12,8 @@ git add . #add all the modified files of the current directory to the git
 git reset --hard --soft {code of the commit} #delete the last commit with that code the --hard will delete all the commit and changes in this. 
 git branch #to see the branches in the repository  
 	
+
+uploading a repository to github 
+git remote add origin "link"
+git remote - v #check the destiny repository in github 
+git push -u origin "name of the branch"
